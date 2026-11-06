@@ -1,0 +1,2 @@
+# DeepAI Code Snippet
+A [project](https://livecodes.io/?x=https://github.com/CRTVMARK/proficiency/tree/gh-pages/src) created by [CRTVMARK](https://github.com/CRTVMARK) on [LiveCodes](https://livecodes.io).
